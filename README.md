@@ -1,0 +1,1 @@
+# Marketing Portfolio\n\nCourse project deliverables for WANG Fengyu's marketing competency portfolio.\n\n| Competency | Project |\n|---|---|\n| Market Research | Apple China iPhone |\n| Market Strategy | HONOR Europe |\n| Brand System | Vanytra Xiaohongshu |\n| Integrated Comms | POP MART IMC |\n| Customer Ops | Burberry NEOCRM |\n| Compliance | LLB Law + Privacy |
